@@ -41,6 +41,7 @@ They fill out the forms and click "Finish"
 
 
 ## ERDs
+<img width="1431" alt="Screenshot 2024-09-19 at 12 13 42 PM" src="https://github.com/user-attachments/assets/7918b017-437e-4bf0-be1c-d0a126130491">
 
 
 ## Api Endpoints
